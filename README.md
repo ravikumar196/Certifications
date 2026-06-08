@@ -12,7 +12,7 @@ This repository contains my verified professional credentials, course completion
 | 📗 **Advanced Excel** | <nobr>Advanced Excel Expert & Power Query Suite</nobr> | [View Certificate PDF](./01_Excel_Certificates/) |
 | 🗄️ **SQL Database** | <nobr>SQL Bootcamp & Relational Database Training (**@Udemy**)</nobr> | [View Certificate PDF](./02_SQL_Certificates/) |
 | 📊 **Power BI** | <nobr>PL-300 Microsoft Associate & Business Intelligence (**@Udemy**)</nobr> | [View Certificate PDF](./03_PowerBI_Certificates/) |
-| 🐍 **Python & AI** | <nobr>Python for Data Science and AI (**IBM @Coursera**)</nobr> | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/Python_for_data_Science_with_AI.pdf) |
+| 🐍 **Python & AI** | <nobr>Python for Data Science and AI (**[IBM @ Coursera](https://coursera.org/share/c1066f4605a975042c0a34372bd8a80c)**)</nobr> | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/Python_for_data_Science_with_AI.pdf) |
 ---
 
 ## 🛠️ Skills Validated via Structured Training
