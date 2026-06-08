@@ -8,7 +8,7 @@ This repository contains my verified professional credentials, course completion
 
 | Domain & Focus Area | Certification Title | Verification Link & PDF Proof |
 | :--- | :--- | :--- |
-| 🤖 **Data Analytics** | <nobr>Data Analytics with Generative AI (**@Career247**)</nobr> | [View Certificate PDF](./00_GenAI_Analytics_Certificates/) |
+| 🤖 **Data Analytics** | <nobr>Data Analytics with Generative AI (**[@Career247](https://career247.edmingle.com/verify/C2472711)**)</nobr> | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/5625765-Data_Analytics_with_Gen_AI_Ravi.pdf) |
 | 📗 **Advanced Excel** | <nobr>Advanced Excel Expert & Power Query Suite</nobr> | [View Certificate PDF](./01_Excel_Certificates/) |
 | 🗄️ **SQL Database** | <nobr>SQL Bootcamp & Relational Database Training (**@Udemy**)</nobr> | [View Certificate PDF](./02_SQL_Certificates/) |
 | 📊 **Power BI** | <nobr>PL-300 Microsoft Associate & Business Intelligence (**@Udemy**)</nobr> | [View Certificate PDF](./03_PowerBI_Certificates/) |
