@@ -18,7 +18,7 @@ This comprehensive certification from **Career247** bridged foundational data an
 | 📗 **Advanced Excel** | Deep-Dive Spreadsheet Analysis | Complex formulas, advanced data functions, and automated data shaping/ETL using Power Query. |
 | 🔢 **Statistics** | Statistical Data Methods | Data distributions, descriptive statistics, and applying analytical principles to back business decisions. |
 
-👉 **Verification:** [Verify on Career247](https://career247.edmingle.com/verify/C2472711) | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/5625765-Data_Analytics_with_Gen_AI_Ravi.pdf)
+👉 **Verification:** [Verify on Career247](https://career247.edmingle.com/verify/C2472711) | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/Career247-Data_Analytics_with_Gen_AI_Ravi.pdf)
 
 ---
 
@@ -26,7 +26,7 @@ This comprehensive certification from **Career247** bridged foundational data an
 
 | Domain & Focus Area | Certification Title | Verification Link & PDF Proof |
 | :--- | :--- | :--- |
-| 🤖 **Data Analytics** | <nobr>Data Analytics with Generative AI (**[@Career247](https://career247.edmingle.com/verify/C2472711)**)</nobr> | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/5625765-Data_Analytics_with_Gen_AI_Ravi.pdf) |
+| 🤖 **Data Analytics** | <nobr>Data Analytics with Generative AI (**[@Career247](https://career247.edmingle.com/verify/C2472711)**)</nobr> | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/Career247-Data_Analytics_with_Gen_AI_Ravi.pdf) |
 | 📗 **Advanced Excel** | <nobr>Advanced Excel Expert & Power Query Suite</nobr> | [View Certificate PDF](./03_PowerBI_Certificates/) |
 | 🗄️ **SQL Database** | <nobr>SQL Bootcamp & Relational Database Training (**@Udemy**)</nobr> | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/SQL%20Bootcamp%20Certificate.pdf) |
 | 📊 **Power BI** | <nobr>PL-300 Microsoft Associate & Business Intelligence ([**@Udemy**](https://www.udemy.com/certificate/UC-fdae692a-8fff-431c-86ef-a08f10e2f9dc/))</nobr> | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/Power%20BI%20Bootcamp%20Certificate.pdf) |
