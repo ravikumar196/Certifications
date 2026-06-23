@@ -1,6 +1,7 @@
+cat > /mnt/user-data/outputs/CERTIFICATIONS_README.md << 'EOF'
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=160&section=header&text=Verified%20Technical%20Certifications&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=13&descAlignY=65&descFontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&width=1200&height=160&section=header&text=Verified%20Technical%20Certifications&fontSize=30&fontColor=ffffff&fontAlignY=42&desc=Data%20Analytics%20%7C%20Business%20Intelligence%20%7C%20Python%20%7C%20SQL%20%7C%20Power%20BI&descSize=13&descAlignY=65&descFontColor=ffffff" />
 
 <br/>
 
@@ -9,13 +10,10 @@
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 <br/>
 
 ![Certifications](https://img.shields.io/badge/Certifications-5-0047AB?style=flat-square&labelColor=0d1117)
-&nbsp;
-![Domains](https://img.shields.io/badge/Domains_Covered-7-0047AB?style=flat-square&labelColor=0d1117)
 &nbsp;
 ![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00C853?style=flat-square&labelColor=0d1117)
 &nbsp;
@@ -25,105 +23,136 @@
 
 ---
 
-## 📑 **Quick Navigation**
+## 📑 Quick Navigation
 
 <div align="center">
 
-[👤 About Me](#-1-about-me) · [🚀 Featured Program](#-2-featured-program-data-analytics-with-generative-ai) · [🏅 All Certifications](#-3-credential-verification-matrix) · [🛠️ Skills Validated](#️-4-skills-validated-via-structured-training) · [💼 Recruiter View](#-5-recruiter-quick-view) · [🤝 Connect](#-6-connect-with-me)
+[👤 About Me](#-about-me) · [🚀 Flagship Program](#-flagship-program-data-analytics-with-generative-ai) · [🏅 Credential Directory](#-global-credential-verification-directory) · [🖼️ Certificate Previews](#️-certificate-previews) · [🛠️ Skill Matrix](#️-skills-validated-via-applied-frameworks) · [💼 Recruiter Brief](#-recruiter-quick-view) · [🤝 Connect](#-connect--network)
 
 </div>
 
 ---
 
-## 👤 1. About Me
+## 👤 About Me
 
-I am **Ravi Kumar**, an MIS Executive at **CollegeDunia** (EdTech) based in **Delhi NCR**, actively transitioning into a full-time **Data Analyst** or **Data Operations Analyst** role. This repository contains all my verified professional credentials, course completions, and technical achievements — mapped across core data analytics domains and independently verifiable.
+I am **Ravi Kumar**, an active **MIS Executive at CollegeDunia (EdTech)** based in Delhi NCR. Leveraging my background in corporate reporting and business data structures, I am transitioning into a full-time **Data Analyst** or **Data Operations Analyst** role.
+
+This section tracks my verified elite credentials, specialized technical checkmarks, and core tool validations.
 
 ---
 
-## 🚀 2. Featured Program: Data Analytics with Generative AI
+## 🚀 Flagship Program: Data Analytics with Generative AI
 
-> **Issuer:** Career247 &nbsp;|&nbsp; **Format:** Intensive Cohort Program &nbsp;|&nbsp; **Credential ID:** C2472711
+> **Training Institution:** Career247 &nbsp;|&nbsp; **Credential ID:** C2472711 &nbsp;|&nbsp; [🔒 Live Verification](https://career247.edmingle.com/verify/C2472711) · [📄 View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/Career247-Data_Analytics_with_Gen_AI_Ravi.pdf)
 
-This comprehensive certification bridged foundational data analytics with modern AI-driven workflows — covering the full stack from raw data ingestion to executive-level BI dashboards, enriched with Generative AI and prompt engineering.
+This professional specialization bridges classic mathematical data operations and dashboard intelligence with cutting-edge **Generative AI workflows** to speed up data pipelines.
 
 <details open>
-<summary><strong>📋 Click to expand — Full Competency Breakdown</strong></summary>
+<summary>📋 <strong>Click to View Curriculum Competencies & Tools Mastered</strong></summary>
 <br/>
 
-| Core Competency | Specialized Skills & Tooling | Applied Context |
+| Technical Domain | Core Tools & Technologies | Applied Business Context & Value |
 | :--- | :--- | :--- |
-| 🤖 **Generative AI** | Prompt Engineering, Workflow Automation | Leveraging LLMs and GenAI tools to optimize code syntax, automate documentation, and accelerate insight discovery |
-| 🐍 **Python Programming** | Python Core · NumPy · Pandas | Custom data manipulation, structured data cleaning, and automated exploratory data analysis (EDA) |
-| 📈 **Data Visualization** | Matplotlib · Seaborn · Plotly | Crafting informative static plots and dynamic, interactive visualization dashboards |
-| 🗄️ **Advanced SQL** | Relational Databases · CTEs · Window Functions | Multi-table joins, subqueries, Common Table Expressions, and complex Window Functions |
-| 📊 **Business Intelligence** | Power BI · Tableau | Building scalable data models, interactive scorecards, and cross-platform executive dashboards |
-| 📗 **Advanced Excel** | Power Query · Complex Formulas | Complex formulas, advanced data functions, and automated data shaping/ETL using Power Query |
-| 🔢 **Statistics** | Descriptive & Inferential Methods | Data distributions, descriptive statistics, and applying analytical principles to business decisions |
-
-</details>
-
-<br/>
-
-> ✅ **Verify this credential:** &nbsp; [🔗 Career247 Live Verification](https://career247.edmingle.com/verify/C2472711) &nbsp;|&nbsp; [📄 View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/Career247-Data_Analytics_with_Gen_AI_Ravi.pdf)
-
-<details open>
-<summary><strong>🖼️ Click to view all dashboard pages</strong></summary>
-  
-![Executive Overview](https://github.com/ravikumar196/Certifications/blob/main/Screenshot%202026-06-23%20135709.png)
+| 🤖 **Generative AI** | Prompt Engineering, Workflow Automation, LLMs | Optimizing script generation syntax, automated query documentation, and accelerating rapid insight discovery |
+| 🐍 **Python Core** | Python, Pandas, NumPy | Constructing automated data cleaning routines, anomaly removal, and robust exploratory data analysis (EDA) pipelines |
+| 📈 **Data Visualization** | Matplotlib, Seaborn, Plotly | Transforming massive log parameters into interactive dashboard files and executive charts |
+| 🗄️ **Advanced SQL** | Relational DBs, Complex Queries, Subqueries | Compiling high-efficiency relational code scripts using modular CTEs, subqueries, and analytical Window Functions |
+| 📊 **Business BI** | Power BI, Tableau Desktop | Structuring normalized enterprise Star Schemas, scripting complex DAX measures, and standardizing corporate KPIs |
+| 📗 **Advanced Excel** | Power Query, Nested Lookups, Matrix Formulas | Architectural pipeline scaling via automated Power Query ETL, complex matrix array lookup rules, and live trackers |
+| 🔢 **Core Statistics** | Descriptive & Inferential Methods, Variance | Tracking user distribution curves and dataset variances to ground corporate choices in mathematical evidence |
 
 </details>
 
 ---
 
-## 🏅 3. Credential Verification Matrix
+## 🏅 Global Credential Verification Directory
 
-| Domain & Focus Area | Certification Title | Verification Link & PDF Proof |
+| Domain Focus | Program Title & Training Authority | Direct Verification Links |
 | :--- | :--- | :--- |
-| 🤖 **Data Analytics** | <nobr>Data Analytics with Generative AI (**[@Career247](https://career247.edmingle.com/verify/C2472711)**)</nobr> | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/Career247-Data_Analytics_with_Gen_AI_Ravi.pdf) |
-| 📗 **Advanced Excel** | <nobr>Advanced Excel Expert & Power Query Suite</nobr> | [View Certificate PDF](./03_PowerBI_Certificates/) |
-| 🗄️ **SQL Database** | <nobr>SQL Bootcamp & Relational Database Training (**@Udemy**)</nobr> | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/SQL%20Bootcamp%20Certificate.pdf) |
-| 📊 **Power BI** | <nobr> Microsoft Associate & Business Intelligence ([**@Udemy**](https://www.udemy.com/certificate/UC-fdae692a-8fff-431c-86ef-a08f10e2f9dc/))</nobr> | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/Power%20BI%20Bootcamp%20Certificate.pdf) |
-| 🐍 **Python & AI** | <nobr>Python for Data Science and AI (**[IBM @ Coursera](https://coursera.org/share/c1066f4605a975042c0a34372bd8a80c)**)</nobr> | [View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/Python_for_data_Science_with_AI.pdf) |
----
+| 🤖 **Analytics & AI** | Data Analytics with Generative AI (**@Career247**) | [🔒 Verify](https://career247.edmingle.com/verify/C2472711) &middot; [📄 PDF Proof](https://github.com/ravikumar196/Certifications/blob/main/Career247-Data_Analytics_with_Gen_AI_Ravi.pdf) |
+| 📊 **Business Intel** | Microsoft Power BI Desktop for Business Intelligence (**@Udemy**) | [🔒 Verify](https://www.udemy.com/certificate/UC-fdae692a-8fff-431c-86ef-a08f10e2f9dc/) &middot; [📄 PDF Proof](https://github.com/ravikumar196/Certifications/blob/main/Power%20BI%20Bootcamp%20Certificate.pdf) |
+| 🗄️ **SQL Databases** | The Ultimate MySQL Bootcamp: Go from SQL Beginner to Expert (**@Udemy**) | [📄 View PDF Proof](https://github.com/ravikumar196/Certifications/blob/main/SQL%20Bootcamp%20Certificate.pdf) |
+| 🐍 **Programming** | Python for Data Science, AI & Development (**IBM @ Coursera**) | [🔒 Verify](https://coursera.org/share/c1066f4605a975042c0a34372bd8a80c) &middot; [📄 PDF Proof](https://github.com/ravikumar196/Certifications/blob/main/Python_for_data_Science_with_AI.pdf) |
+| 📗 **Spreadsheets** | Advanced Excel Expert & Power Query Suite | [📄 View PDF Proof](./03_PowerBI_Certificates/) |
 
 ---
 
-## 🛠️ 4. Skills Validated via Structured Training
+## 🖼️ Certificate Previews
+
+> All certificates extracted directly from verified PDF files. Click any section to expand or collapse.
+
+<details open>
+<summary>🤖 <strong>01 — Data Analytics with Generative AI &nbsp;·&nbsp; Career247</strong> &nbsp; | &nbsp; <a href="https://career247.edmingle.com/verify/C2472711">🔒 Verify Live</a></summary>
+<br/>
+
+![Career247 - Data Analytics with GenAI](https://raw.githubusercontent.com/ravikumar196/Certifications/main/cert_preview_career247.png)
+
+</details>
+
+---
+
+<details open>
+<summary>🗄️ <strong>02 — The Ultimate MySQL Bootcamp &nbsp;·&nbsp; Udemy</strong></summary>
+<br/>
+
+![SQL Bootcamp Certificate - Udemy](https://raw.githubusercontent.com/ravikumar196/Certifications/main/cert_preview_sql.png)
+
+</details>
+
+---
+
+<details open>
+<summary>📊 <strong>03 — Microsoft Power BI Desktop for Business Intelligence &nbsp;·&nbsp; Udemy</strong> &nbsp; | &nbsp; <a href="https://www.udemy.com/certificate/UC-fdae692a-8fff-431c-86ef-a08f10e2f9dc/">🔒 Verify Live</a></summary>
+<br/>
+
+![Power BI Bootcamp Certificate - Udemy](https://raw.githubusercontent.com/ravikumar196/Certifications/main/cert_preview_powerbi.png)
+
+</details>
+
+---
+
+<details open>
+<summary>🐍 <strong>04 — Python for Data Science, AI & Development &nbsp;·&nbsp; IBM @ Coursera</strong> &nbsp; | &nbsp; <a href="https://coursera.org/share/c1066f4605a975042c0a34372bd8a80c">🔒 Verify Live</a></summary>
+<br/>
+
+![Python for Data Science - IBM Coursera](https://raw.githubusercontent.com/ravikumar196/Certifications/main/cert_preview_python.png)
+
+</details>
+
+---
+
+## 🛠️ Skills Validated via Applied Frameworks
 
 <details>
-<summary><strong>🗄️ SQL & Data Engineering</strong></summary>
+<summary><strong>🗄️ SQL Engineering & Query Optimization</strong></summary>
 <br/>
 
-- Multi-table `JOIN` operations — `INNER`, `LEFT`, `RIGHT`, `FULL OUTER`
-- Correlated and nested subqueries for complex filtering logic
-- Common Table Expressions (CTEs) for readable, modular query design
-- Window Functions: `RANK()`, `ROW_NUMBER()`, `LAG()`, `LEAD()`, running totals
+- Written multi-table query solutions via `INNER JOIN`, `LEFT JOIN`, and `FULL OUTER`
+- Built modular, readable code scripts using Common Table Expressions (CTEs) and subqueries
+- Implemented complex windowing computations: `RANK()`, `ROW_NUMBER()`, `LAG()`, and `LEAD()`
 - Automated ETL pipeline creation, data type normalization, and file merging
 
 </details>
 
 <details>
-<summary><strong>📊 Business Intelligence & Power BI</strong></summary>
+<summary><strong>📊 Business Intelligence & Power BI Delivery</strong></summary>
 <br/>
 
-- Star Schema data modeling and relationship management in Power BI Desktop
-- Dynamic DAX measures: calculated columns, time intelligence, KPI logic
-- Interactive corporate performance scorecards and executive dashboards
-- Row-Level Security (RLS) implementation for role-based data access
-- Cross-platform publishing: Power BI Service, Looker Studio, Google Sheets
+- Modeled clean, optimized Star Schema relational structures in Power BI Desktop
+- Authored performance-ready DAX expressions for dynamic time intelligence metrics
+- Row-Level Security (RLS) for role-based data access control
+- Connected and deployed products across Power BI Service, Looker Studio, and Google Sheets
 
 </details>
 
 <details>
-<summary><strong>🐍 Python for Data Analytics</strong></summary>
+<summary><strong>🐍 Data Science Foundations (Python & AI)</strong></summary>
 <br/>
 
-- **Pandas:** data cleaning, `groupby` aggregations, merge and reshape operations
-- **NumPy:** array computation and vectorized statistical calculations
-- **Matplotlib & Seaborn:** publication-ready EDA charts and distribution plots
-- **Scikit-learn:** Logistic Regression, preprocessing, model evaluation metrics
-- Functional and OOP patterns for reusable, production-ready analysis pipelines
+- Orchestrated matrix modifications and aggregations through **Pandas DataFrames**
+- Vectorized high-speed statistical arrays utilizing mathematical functions in **NumPy**
+- Built EDA and visualization pipelines with **Matplotlib**, **Seaborn**, and **Plotly**
+- Applied **Scikit-learn** for Logistic Regression modeling and preprocessing
 
 </details>
 
@@ -134,7 +163,6 @@ This comprehensive certification bridged foundational data analytics with modern
 - Complex formula engineering: `INDEX-MATCH`, `XLOOKUP`, dynamic array formulas
 - Power Query: automated data transformation and multi-source consolidation
 - Pivot Tables, slicers, conditional formatting, and KPI dashboard design
-- Data validation, named ranges, and audit-ready spreadsheet architecture
 
 </details>
 
@@ -143,64 +171,46 @@ This comprehensive certification bridged foundational data analytics with modern
 <br/>
 
 - Descriptive statistics: mean, median, mode, variance, standard deviation
-- Data distribution analysis and outlier detection
-- Hypothesis testing to validate behavioral differences in customer segments
-- Applying statistical principles to support and justify business decisions
+- Data distribution analysis, outlier detection, and hypothesis testing
+- Applying statistical principles to support and justify real business decisions
 
 </details>
 
 ---
 
-## 💼 5. Recruiter Quick View
-
-> **TL;DR for hiring managers and recruiters — everything at a glance**
+## 💼 Recruiter Quick View
 
 ```
-Name            :  Ravi Kumar
-Target Role     :  Data Analyst | Data Operations Analyst
-Location        :  Delhi NCR (Open to hybrid / remote)
-Current Role    :  MIS Executive @ CollegeDunia (EdTech)
-Core Stack      :  SQL · Python · Power BI · Excel · DAX · Looker Studio · Google Sheets
-Education       :  BBA in Marketing
-Certifications  :  5 Verified · Independently Checkable
-Status          :  Actively Looking — Available Immediately
+Candidate     :  Ravi Kumar
+Target Roles  :  Data Analyst | Data Operations Analyst | Business Analyst
+Location      :  Delhi NCR (Open to Hybrid / Remote)
+Current Role  :  MIS Executive @ CollegeDunia (EdTech)
+Core Stack    :  SQL · Python · Power BI · Excel · DAX · Looker Studio · Google Sheets
+Education     :  BBA in Marketing
+Certifications:  5 Verified · Independently Checkable
+Availability  :  Actively Looking — Available Immediately
 ```
-
-<br/>
-
-**Certified & Proficient In:**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Looker](https://img.shields.io/badge/Looker%20Studio-4285F4?style=flat&logo=looker&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=flat&logo=googlesheets&logoColor=white)
 
 ---
 
-## 🤝 6. Connect With Me
-
-I am actively seeking **Data Analyst** and **Data Operations Analyst** opportunities in **Delhi NCR**. If you are hiring or know of an opening, I would love to connect!
+## 🤝 Connect & Network
 
 | Platform | Link |
 | :--- | :--- |
 | 💼 **LinkedIn** | [linkedin.com/in/ravi-kumar-13b322236](https://linkedin.com/in/ravi-kumar-13b322236) |
-| 🖥️ **GitHub Profile** | [github.com/Ravikumar196](https://github.com/Ravikumar196) |
-| 📊 **Portfolio Site** | [ravikumar196.github.io](https://ravikumar196.github.io) |
+| 🖥️ **GitHub** | [github.com/Ravikumar196](https://github.com/Ravikumar196) |
+| 🌐 **Portfolio** | [ravikumar196.github.io](https://ravikumar196.github.io) |
 
 ---
 
 <div align="center">
 
-🔗 **Return to Main Portfolio:** [@Ravikumar196](https://github.com/ravikumar196) &nbsp;|&nbsp; **[Connect on LinkedIn](https://www.linkedin.com/in/ravi-kumar-13b322236/)**
+[🔗 Back to Portfolio](https://github.com/ravikumar196) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/ravi-kumar-13b322236/)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=70&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=80&section=footer" />
 
 </div>
+EOF
+echo "Done"
