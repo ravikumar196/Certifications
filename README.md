@@ -50,18 +50,16 @@ This professional specialization bridges classic mathematical data operations an
 <details open>
 <summary>📋 <strong>Click to View Curriculum Competencies & Tools Mastered</strong></summary>
 <br/>
+### 🚀 Tech Stack & Core Competencies
 
-| Technical Domain | Core Tools & Technologies | Applied Business Context & Value |
+| Domain | Core Tools | Key Applied Skills |
 | :--- | :--- | :--- |
-| 🤖 **Generative AI** | Prompt Engineering, Workflow Automation, LLMs | Optimizing script generation syntax, automated query documentation, and accelerating rapid insight discovery |
-| 🐍 **Python Core** | Python, Pandas, NumPy | Constructing automated data cleaning routines, anomaly removal, and robust exploratory data analysis (EDA) pipelines |
-| 📈 **Data Visualization** | Matplotlib, Seaborn, Plotly | Transforming massive log parameters into interactive dashboard files and executive charts |
-| 🗄️ **Advanced SQL** | Relational DBs, Complex Queries, Subqueries | Compiling high-efficiency relational code scripts using modular CTEs, subqueries, and analytical Window Functions |
-| 📊 **Business BI** | Power BI, Tableau Desktop | Structuring normalized enterprise Star Schemas, scripting complex DAX measures, and standardizing corporate KPIs |
-| 📗 **Advanced Excel** | Power Query, Nested Lookups, Matrix Formulas | Architectural pipeline scaling via automated Power Query ETL, complex matrix array lookup rules, and live trackers |
-| 🔢 **Core Statistics** | Descriptive & Inferential Methods, Variance | Tracking user distribution curves and dataset variances to ground corporate choices in mathematical evidence |
-
-</details>
+| 🤖 **GenAI** | Prompt Engineering · LLMs | • Optimizing code syntax & automating query documentation.<br>• Accelerating rapid insight discovery workflows. |
+| 🐍 **Python** | Python · Pandas · NumPy | • Building automated data cleaning & transformation scripts.<br>• Engineering baseline Exploratory Data Analysis (EDA) pipelines. |
+| 🗄️ **SQL** | Relational DBs · CTEs | • Writing optimized queries with Window Functions & subqueries.<br>• Handling multi-table relational data extraction. |
+| 📊 **BI & Analytics** | Power BI · Tableau · DAX | • Modeling production-ready Star Schemas & relational assets.<br>• Scripting dynamic DAX measures & performance KPIs. |
+| 📗 **Excel** | Power Query · Advanced Formulas | • Creating automated ETL pipelines & multi-source lookups.<br>• Building data validation rules & executive trackers. |
+| 🔢 **Statistics**| Descriptive & Inferential | • Analyzing data distributions & outlier trends.<br>• Backing operational decisions with mathematical evidence. |
 
 ---
 
@@ -85,7 +83,7 @@ This professional specialization bridges classic mathematical data operations an
 <summary>🤖 <strong>01 — Data Analytics with Generative AI &nbsp;·&nbsp; Career247</strong> &nbsp; | &nbsp; <a href="https://career247.edmingle.com/verify/C2472711">🔒 Verify Live</a></summary>
 <br/>
 
-![Career247 - Data Analytics with GenAI](https://raw.githubusercontent.com/ravikumar196/Certifications/main/cert_preview_career247.png)
+![Career247 - Data Analytics with GenAI](https://github.com/ravikumar196/Certifications/blob/main/Screenshot%202026-06-23%20135709.png)
 
 </details>
 
