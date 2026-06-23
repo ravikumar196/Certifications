@@ -30,18 +30,9 @@ cat > /mnt/user-data/outputs/CERTIFICATIONS_README.md << 'EOF'
 [👤 About Me](#-about-me) · [🚀 Flagship Program](#-flagship-program-data-analytics-with-generative-ai) · [🏅 Credential Directory](#-global-credential-verification-directory) · [🖼️ Certificate Previews](#️-certificate-previews) · [🛠️ Skill Matrix](#️-skills-validated-via-applied-frameworks) · [💼 Recruiter Brief](#-recruiter-quick-view) · [🤝 Connect](#-connect--network)
 
 </div>
-
 ---
 
-## 👤 About Me
-
-I am **Ravi Kumar**, an active **MIS Executive at CollegeDunia (EdTech)** based in Delhi NCR. Leveraging my background in corporate reporting and business data structures, I am transitioning into a full-time **Data Analyst** or **Data Operations Analyst** role.
-
-This section tracks my verified elite credentials, specialized technical checkmarks, and core tool validations.
-
----
-
-## 🚀 Flagship Program: Data Analytics with Generative AI
+## 🚀 Data Analytics with Generative AI Program
 
 > **Training Institution:** Career247 &nbsp;|&nbsp; **Credential ID:** C2472711 &nbsp;|&nbsp; [🔒 Live Verification](https://career247.edmingle.com/verify/C2472711) · [📄 View Certificate PDF](https://github.com/ravikumar196/Certifications/blob/main/Career247-Data_Analytics_with_Gen_AI_Ravi.pdf)
 
