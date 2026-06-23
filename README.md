@@ -5,9 +5,9 @@ cat > /mnt/user-data/outputs/CERTIFICATIONS_README.md << 'EOF'
 
 <br/>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://coursera.org/share/c1066f4605a975042c0a34372bd8a80c)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)](https://github.com/ravikumar196/Certifications/blob/main/SQL%20Bootcamp%20Certificate.pdf)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://www.udemy.com/certificate/UC-fdae692a-8fff-431c-86ef-a08f10e2f9dc/)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
@@ -30,6 +30,7 @@ cat > /mnt/user-data/outputs/CERTIFICATIONS_README.md << 'EOF'
 [👤 About Me](#-about-me) · [🚀 Flagship Program](#-flagship-program-data-analytics-with-generative-ai) · [🏅 Credential Directory](#-global-credential-verification-directory) · [🖼️ Certificate Previews](#️-certificate-previews) · [🛠️ Skill Matrix](#️-skills-validated-via-applied-frameworks) · [💼 Recruiter Brief](#-recruiter-quick-view) · [🤝 Connect](#-connect--network)
 
 </div>
+
 ---
 
 ## 🚀 Data Analytics with Generative AI Program
@@ -41,6 +42,7 @@ This professional specialization bridges classic mathematical data operations an
 <details open>
 <summary>📋 <strong>Click to View Curriculum Competencies & Tools Mastered</strong></summary>
 <br/>
+
 ### 🚀 Tech Stack & Core Competencies
 
 | Domain | Core Tools | Key Applied Skills |
@@ -51,6 +53,8 @@ This professional specialization bridges classic mathematical data operations an
 | 📊 **BI & Analytics** | Power BI · Tableau · DAX | • Modeling production-ready Star Schemas & relational assets.<br>• Scripting dynamic DAX measures & performance KPIs. |
 | 📗 **Excel** | Power Query · Advanced Formulas | • Creating automated ETL pipelines & multi-source lookups.<br>• Building data validation rules & executive trackers. |
 | 🔢 **Statistics**| Descriptive & Inferential | • Analyzing data distributions & outlier trends.<br>• Backing operational decisions with mathematical evidence. |
+
+</details>
 
 ---
 
@@ -168,38 +172,3 @@ This professional specialization bridges classic mathematical data operations an
 ---
 
 ## 💼 Recruiter Quick View
-
-```
-Candidate     :  Ravi Kumar
-Target Roles  :  Data Analyst | Data Operations Analyst | Business Analyst
-Location      :  Delhi NCR (Open to Hybrid / Remote)
-Current Role  :  MIS Executive @ CollegeDunia (EdTech)
-Core Stack    :  SQL · Python · Power BI · Excel · DAX · Looker Studio · Google Sheets
-Education     :  BBA in Marketing
-Certifications:  5 Verified · Independently Checkable
-Availability  :  Actively Looking — Available Immediately
-```
-
----
-
-## 🤝 Connect & Network
-
-| Platform | Link |
-| :--- | :--- |
-| 💼 **LinkedIn** | [linkedin.com/in/ravi-kumar-13b322236](https://linkedin.com/in/ravi-kumar-13b322236) |
-| 🖥️ **GitHub** | [github.com/Ravikumar196](https://github.com/Ravikumar196) |
-| 🌐 **Portfolio** | [ravikumar196.github.io](https://ravikumar196.github.io) |
-
----
-
-<div align="center">
-
-[🔗 Back to Portfolio](https://github.com/ravikumar196) &nbsp;·&nbsp; [💼 LinkedIn](https://www.linkedin.com/in/ravi-kumar-13b322236/)
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0047AB&height=80&section=footer" />
-
-</div>
-EOF
-echo "Done"
