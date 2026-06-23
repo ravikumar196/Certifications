@@ -88,7 +88,7 @@ This professional specialization bridges classic mathematical data operations an
 <summary>🗄️ <strong>02 — The Ultimate MySQL Bootcamp &nbsp;·&nbsp; Udemy</strong></summary>
 <br/>
 
-![SQL Bootcamp Certificate - Udemy](https://raw.githubusercontent.com/ravikumar196/Certifications/main/cert_preview_sql.png)
+![SQL Bootcamp Certificate - Udemy](https://github.com/ravikumar196/Certifications/blob/main/Screenshot%202026-06-23%20150215.png)
 
 </details>
 
