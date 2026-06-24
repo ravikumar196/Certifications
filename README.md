@@ -82,7 +82,8 @@ This professional specialization bridges classic mathematical data operations an
 
 </details>
 
----
+----
+----
 
 <details open>
 <summary>🗄️ <strong>02 — The Ultimate MySQL Bootcamp &nbsp;·&nbsp; Udemy</strong></summary>
@@ -92,7 +93,8 @@ This professional specialization bridges classic mathematical data operations an
 
 </details>
 
----
+----
+----
 
 <details open>
 <summary>📊 <strong>03 — Microsoft Power BI Desktop for Business Intelligence &nbsp;·&nbsp; Udemy</strong> &nbsp; | &nbsp; <a href="https://www.udemy.com/certificate/UC-fdae692a-8fff-431c-86ef-a08f10e2f9dc/">🔒 Verify Live</a></summary>
@@ -102,7 +104,8 @@ This professional specialization bridges classic mathematical data operations an
 
 </details>
 
----
+----
+----
 
 <details open>
 <summary>🐍 <strong>04 — Python for Data Science, AI & Development &nbsp;·&nbsp; IBM @ Coursera</strong> &nbsp; | &nbsp; <a href="https://coursera.org/share/c1066f4605a975042c0a34372bd8a80c">🔒 Verify Live</a></summary>
