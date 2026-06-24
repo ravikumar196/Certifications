@@ -98,7 +98,7 @@ This professional specialization bridges classic mathematical data operations an
 <summary>📊 <strong>03 — Microsoft Power BI Desktop for Business Intelligence &nbsp;·&nbsp; Udemy</strong> &nbsp; | &nbsp; <a href="https://www.udemy.com/certificate/UC-fdae692a-8fff-431c-86ef-a08f10e2f9dc/">🔒 Verify Live</a></summary>
 <br/>
 
-![Power BI Bootcamp Certificate - Udemy](https://raw.githubusercontent.com/ravikumar196/Certifications/main/cert_preview_powerbi.png)
+![Power BI Bootcamp Certificate - Udemy](https://github.com/ravikumar196/Certifications/blob/main/Screenshot%202026-06-24%20231302.png)
 
 </details>
 
